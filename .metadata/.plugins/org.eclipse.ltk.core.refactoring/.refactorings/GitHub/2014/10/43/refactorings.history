@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;swing.JFrame&apos; to &apos;Frame&apos;&#x0A;- Original project: &apos;GitHub&apos;&#x0A;- Original element: &apos;swing.JFrame&apos;&#x0A;- Renamed element: &apos;swing.Frame&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JFrame&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;swing{JFrame.java[JFrame" matchStrategy="1" name="Frame" qualified="false" references="true" similarDeclarations="false" stamp="1414308117067" textual="false" version="1.0"/>
+</session>
